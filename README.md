@@ -2,9 +2,13 @@
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
     </a>
-    <h1 align="center">Yii 2 Basic Project Template</h1>
+    <h1 align="center">Yii 2 Application</h1>
     <br>
 </p>
+
+# Biospel API Documentation
+
+[Documentation Link](https://documenter.getpostman.com/view/38465298/2sAYkBt272)
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](https://www.yiiframework.com/) application best for
 rapidly creating small projects.
